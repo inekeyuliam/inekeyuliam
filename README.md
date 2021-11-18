@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inekeyuliam
 - 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning data analysis and machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
